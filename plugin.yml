@@ -1,0 +1,10 @@
+name: AutoSaver
+main: com.metagamingnetwork.autosaver.autosaver
+version: 3.1
+
+commands:
+  autosave:
+    description: Saves the server on specified intervals.
+    usage: /autosave enable/disable/save/reload
+    permission: autosave.basic
+    permission-message: You don't have permission to do that!

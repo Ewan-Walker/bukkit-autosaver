@@ -1,0 +1,19 @@
+#AutoSaver v2 Configuration file
+#===============================
+
+#Do you want this plugin enabled or disabled upon start up? (enabled/disabled)
+status: enabled
+
+#On what interval would you like to save? (time in minutes)
+interval: 5
+
+#Enable Server Back ups
+#This option will back up the entire server, including configurations and worlds.
+backup: enabled
+
+#How often do you want your server to be backed up? (time in minutes)
+#Default: 720 minutes (12 hours)
+backups: 720
+
+#Console logging settings (enabled/disabled)
+log: enabled
